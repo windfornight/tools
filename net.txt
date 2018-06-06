@@ -1,0 +1,5 @@
+pip install pyopenssl ndg-httpsclient pyasn1
+
+https://www.cnblogs.com/rain124/p/6196053.html
+
+https://github.com/BYVoid/OpenCC
